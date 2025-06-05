@@ -1,0 +1,23 @@
+{
+    "name": "DRC Autonoleggio",
+    "short_name": "NoleggioDRC",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "!!!#CODICE_HEX_COLORE_SFONDO_ES_FFFFFF!!!", 
+    "theme_color": "!!!#CODICE_HEX_VERDE_PETROLIO!!!", 
+    "description": "App per la gestione noleggio auto DRC.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
